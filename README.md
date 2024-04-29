@@ -1,2 +1,3 @@
 This is power Bi end to end project.
 This project is Power Bi dashboard designed to provide comprenhensive insights into employee turnover within an organization. Leveraging HR analytics, the dashboard analyzes the data related to employee departures, highlighting key factors and patterns that can inform stategic desicion making and management efforts.
+I have also inserted that csv file containing the raw Dataset. Before making the Dashboard i have cleaned and filtered some data as per required and using dax formula i have added some extra coloumns in the dataset which was better suitable for visulization.
